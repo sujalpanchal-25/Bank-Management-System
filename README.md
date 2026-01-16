@@ -12,3 +12,9 @@ A simple console-based Bank Management System written in Python.
 ## How to Run
 ```bash
 python Bank_management_sys.py
+
+## Author
+**Sujal Panchal**  
+BE Student | Python Developer  
+GitHub: https://github.com/sujalpanchal-25
+
